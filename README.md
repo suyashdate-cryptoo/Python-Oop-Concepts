@@ -17,6 +17,9 @@ A collection of Python programs demonstrating Object-Oriented Programming concep
 
 - Student Management System
 
+- ### 1. Classes and Objects
+A basic Python program demonstrating how to create a class, object, and method.
+
 ## Technologies Used
 
 - Python
