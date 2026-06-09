@@ -20,6 +20,9 @@ A collection of Python programs demonstrating Object-Oriented Programming concep
 - ### 1. Classes and Objects
 A basic Python program demonstrating how to create a class, object, and method.
 
+### 2. Constructors
+A Python program demonstrating the use of constructors (__init__) to initialize object attributes automatically.
+
 ## Technologies Used
 
 - Python
