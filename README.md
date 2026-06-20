@@ -30,3 +30,15 @@ A basic Python program demonstrating how to create a class, object, and method.
 
 ### 2. Constructors
 A Python program demonstrating the use of constructors (__init__) to initialize object attributes automatically.
+
+### 3. Inheritance
+A Python program demonstrating inheritance where a child class inherits attributes and methods from a parent class.
+
+### 4. Multilevel Inheritance
+A Python program demonstrating multilevel inheritance where a class inherits from a child class that already inherited from another class.
+
+### 5. Hierarchical Inheritance
+A Python program demonstrating hierarchical inheritance where multiple child classes inherit from the same parent class.
+
+### 6. Polymorphism
+A Python program demonstrating polymorphism where different objects respond differently to the same method call.
